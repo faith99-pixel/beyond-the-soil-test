@@ -1,0 +1,9 @@
+{
+  "name": "soil-api",
+  "version": "1.0.0",
+  "description": "FastAPI service for soil health dashboard",
+  "scripts": {
+    "dev": "python3 main.py",
+    "start": "python3 main.py"
+  }
+}
